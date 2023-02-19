@@ -1,10 +1,12 @@
-# Learn Repo Template
+# Learn Remix Cloudflare
 
 ## 本リポジトリの目的
-練習用リポジトリを目的や達成目標を持って実施できるようにするため
+Cloudflare Pages上でRemixを動作させ、APIの取得が隠蔽できるかどうか確認する
 
 ## 本リポジトリの達成目標
-このテンプレートリポジトリを使って練習用リポジトリを作成されるようになる
+- [x] Remixで外部API取得をし、やり取りが隠蔽されていることを確認する
+- [x] RemixをCloudflare Pages上で動作させる
+- [ ] Remix上でChakra UIを動作させる
 
 ## 参考資料
 - 特になし
